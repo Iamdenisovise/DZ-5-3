@@ -10,7 +10,7 @@
 
 ![фото](https://github.com/Iamdenisovise/DZ-5-3/blob/main/Zv_O-baPL3g.jpg)
 
-![photo](https://github.com/Iamdenisovise/DZ-5-3/blob/main/docs/assets/Zv_O-baPL3g.png)
+![photo](Zv_O-baPL3g.png)
 
 
  
